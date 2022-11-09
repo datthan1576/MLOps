@@ -1,0 +1,3 @@
+7-Docker
+8-Testing
+9-CI/CD(gitlab,nexus)
